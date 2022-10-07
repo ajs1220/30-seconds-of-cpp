@@ -12,13 +12,13 @@
 <hr>
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/72e93df05bce4d7598f222676bfb511c)](https://app.codacy.com/app/Bhupesh-V/30-Seconds-Of-STL?utm_source=github.com&utm_medium=referral&utm_content=Bhupesh-V/30-Seconds-Of-STL&utm_campaign=Badge_Grade_Dashboard)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![LICENSE](https://img.shields.io/github/license/Bhupesh-V/30-seconds-of-cpp?color=blue)](https://github.com/Bhupesh-V/30-Seconds-Of-STL/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/Bhupesh-V/30-seconds-of-cpp.svg?branch=master)](https://travis-ci.org/Bhupesh-V/30-seconds-of-cpp)
-[![CodeFactor](https://www.codefactor.io/repository/github/bhupesh-v/30-seconds-of-cpp/badge)](https://www.codefactor.io/repository/github/bhupesh-v/30-seconds-of-cpp)
-[![Open Source Helpers](https://www.codetriage.com/bhupesh-v/30-seconds-of-cpp/badges/users.svg)](https://www.codetriage.com/bhupesh-v/30-seconds-of-cpp)
-[![GitHub contributors](https://img.shields.io/github/contributors/Bhupesh-V/30-seconds-of-cpp)](https://github.com/Bhupesh-V/30-seconds-of-cpp/graphs/contributors)
+[[Codacy Badge](https://api.codacy.com/project/badge/Grade/72e93df05bce4d7598f222676bfb511c)](https://app.codacy.com/app/Bhupesh-V/30-Seconds-Of-STL?utm_source=github.com&utm_medium=referral&utm_content=Bhupesh-V/30-Seconds-Of-STL&utm_campaign=Badge_Grade_Dashboard)
+[[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[[LICENSE](https://img.shields.io/github/license/Bhupesh-V/30-seconds-of-cpp?color=blue)](https://github.com/Bhupesh-V/30-Seconds-Of-STL/blob/master/LICENSE)
+[[Build Status](https://travis-ci.org/Bhupesh-V/30-seconds-of-cpp.svg?branch=master)](https://travis-ci.org/Bhupesh-V/30-seconds-of-cpp)
+[[CodeFactor](https://www.codefactor.io/repository/github/bhupesh-v/30-seconds-of-cpp/badge)](https://www.codefactor.io/repository/github/bhupesh-v/30-seconds-of-cpp)
+[[Open Source Helpers](https://www.codetriage.com/bhupesh-v/30-seconds-of-cpp/badges/users.svg)](https://www.codetriage.com/bhupesh-v/30-seconds-of-cpp)
+[[GitHub contributors](https://img.shields.io/github/contributors/Bhupesh-V/30-seconds-of-cpp)](https://github.com/Bhupesh-V/30-seconds-of-cpp/graphs/contributors)
 <hr>
 
 
